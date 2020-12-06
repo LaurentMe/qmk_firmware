@@ -4,9 +4,9 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Laurent Meersman](https://github.com/LaurentMe)
+* Keyboard Maintainer: [LaurentMe](https://github.com/LaurentMe)
 * Hardware Supported: *LM70 v1.0*
-* Hardware Availability: *Prototyping stage, you can contact me for more information.*
+* Hardware Availability: *Prototyping stage. If you are interested you can contact me for more information.*
 
 Make example for this keyboard (after setting up your build environment):
 
